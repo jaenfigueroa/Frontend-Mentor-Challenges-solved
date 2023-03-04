@@ -2,6 +2,8 @@
 
 # Frontend Mentor - Challenges solved
 
+A compilation of all the Frontend Mentor challenges that I have successfully completed.
+
 </div>
 
 <div align="center" >
