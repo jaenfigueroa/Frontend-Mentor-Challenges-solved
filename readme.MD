@@ -22,5 +22,5 @@ A compilation of all the [Frontend Mentor](https://www.frontendmentor.io/challen
 - Website: https://jaenfigueroa.github.io/Results-summary-component
 
 ### 2. Multi-step-form-Frontend-Mentor (05/03/2023)
-- Repository: https://github.com/jaenfigueroa/Multi-step-form-Frontend-Mentor
-- Website: https://jaenfigueroa.github.io/Multi-step-form-Frontend-Mentor
+- Repository: https://github.com/jaenfigueroa/Multi-step-form
+- Website: https://jaenfigueroa.github.io/Multi-step-form
