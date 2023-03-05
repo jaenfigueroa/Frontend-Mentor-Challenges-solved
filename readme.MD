@@ -17,4 +17,4 @@ A compilation of all the Frontend Mentor challenges that I have successfully com
 
 <br/>
 
-1. [Results summary component](https://github.com/jaenfigueroa/Results-summary-component) -> https://jaenfigueroa.github.io/Results-summary-component/
+1. [Results summary component](https://github.com/jaenfigueroa/Results-summary-component) --- https://jaenfigueroa.github.io/Results-summary-component/
