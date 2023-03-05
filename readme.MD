@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Challenges solved
 
-A compilation of all the Frontend Mentor challenges that I have successfully completed.
+A compilation of all the [Frontend Mentor](https://www.frontendmentor.io/challenges) challenges that I have successfully completed.
 
 </div>
 
