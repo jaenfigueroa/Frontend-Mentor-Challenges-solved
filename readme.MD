@@ -17,7 +17,7 @@ A compilation of all the Frontend Mentor challenges that I have successfully com
 
 <br/>
 
-1. Results summary component
+### 1. Results summary component
 - Repository: https://github.com/jaenfigueroa/Results-summary-component
 - Website: https://jaenfigueroa.github.io/Results-summary-component
 
